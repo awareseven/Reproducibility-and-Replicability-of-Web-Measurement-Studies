@@ -1,0 +1,120 @@
+Nummer,Titel,Autor,Konferenz,Jahr,Security Paper,Privacy Paper,Link To Paper
+1,Awakening the Web’s Sleeper Agents: Misusing Service Workers for Privacy Leakage,Karami,NDSS,2021,1,0,https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-2_23104_paper.pdf
+2,Tales of F A V I C O N S and Caches: Persistent Tracking in Modern Browsers,Solomos,NDSS,2021,1,0,https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-5_24202_paper.pdf
+3,Reining in the Web’s Inconsistencies with Site Policy,Calzavara,NDSS,2021,1,0,https://www.ndss-symposium.org/wp-content/uploads/ndss2021_2A-1_23091_paper.pdf
+4,Who’s Hosting the Block Party? Studying Third-Party Blockage of CSP and SRI,Steffens,NDSS,2021,1,0,https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3A-3_24028_paper.pdf
+5,Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites,Watanabe,NDSS,2020,1,0,https://www.ndss-symposium.org/wp-content/uploads/2020/02/24140-paper.pdf
+6,Cross-Origin State Inference (COSI) Attacks: Leaking Web Site States through XS-Leaks,Sudhodanan,NDSS,2020,1,0,https://www.ndss-symposium.org/wp-content/uploads/2020/02/24278-paper.pdf
+7,Decentralized Control: A Case Study of Russia,Ramesh,NDSS,2020,0,1,https://www.ndss-symposium.org/wp-content/uploads/2020/02/23098-paper.pdf
+8,Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation,Le Pochat,NDSS,2019,1,0,https://arxiv.org/abs/1806.01156
+9,Don't Trust The Locals: Investigating the Prevalence of Persistent Client-Side Cross-Site Scripting in the Wild,Steffens,NDSS,2019,1,0,https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_01B-1_Steffens_paper.pdf
+10,Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis.,Zhu,NDSS,2018,1,0,https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_04A-2_Zhu_paper.pdf
+11,JavaScript Zero: Real JavaScript and Zero Side-Channel Attacks. ,Schwarz,NDSS,2018,1,0,https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_07A-3_Schwarz_paper.pdf
+12,Thou Shalt Not Depend on Me: Analysing the Use of Outdated JavaScript Libraries on the Web,Lauinger,NDSS,2017,1,0,https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_02B-1_Lauinger_paper.pdf
+13,Do You See What I See?  Differential Treatment of Anonymous Users,Khattak,NDSS,2016,0,1,https://www.ndss-symposium.org/wp-content/uploads/2017/09/do-you-see-what-i-see-differential-treatment-anonymous-users.pdf
+14,Website Fingerprinting at Internet Scale,Panchenko,NDSS,2016,1,0,https://www.ndss-symposium.org/wp-content/uploads/2017/09/website-fingerprinting-internet-scale.pdf
+15,It’s Free for a Reason: Exploring the Ecosystem of Free Live Streaming Services,Rafique,NDSS,2016,1,0,https://www.ndss-symposium.org/wp-content/uploads/2017/09/free-reason-exploring-ecosystem-free-live-streaming-services.pdf
+16,CrawlPhish: Large-scale Analysis of Client-side Cloaking Techniques in Phishing,Zhang,S&P,2021,1,0,https://www.kapravelos.com/publications/crawlphish-sp21.pdf
+17,Fingerprinting the Fingerprinters: Learning to Detect Browser Fingerprinting Behaviors,Iqbal,S&P,2021,0,1,https://arxiv.org/pdf/2008.04480.pdf
+18,Journey to the Center of the Cookie Ecosystem: Unraveling Actors’ Roles and Relationships,Sanchez-Rola,S&P,2021,0,1,http://s3.eurecom.fr/docs/oakland21_cookieflows.pdf
+19,Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe's Transparency and Consent Framework,Matte,S&P,2020,0,1,"https://arxiv.org/abs/1911.09964#:~:text=As%20a%20result%20of%20the,and%20Consent%20Framework%20(TCF)."
+20,AdGraph: A Graph-Based Approach to Ad and Tracker Blocking,Iqbal,S&P,2020,1,1,https://arxiv.org/pdf/1805.09155.pdf
+21,Browsing Unicity: On the Limits of Anonymizing Web Tracking Data,Deußer,S&P,2020,0,1,https://ieeexplore.ieee.org/document/9152774
+22,Postcards from the Post-HTTP World: Amplification of HTTPS Vulnerabilities in the Web Ecosystem,Calzavara,S&P,2019,1,0,https://www.computer.org/csdl/proceedings-article/sp/2019/666000a948/19skg7hRywM
+23,Does Certificate Transparency Break the Web? Measuring Adoption and Error Rate,Stark,S&P,2019,1,0,https://ieeexplore.ieee.org/document/8835212
+24,Augur: Internet-Wide Detection of Connectivity Disruptions,Pearce,S&P,2017,1,0,https://ieeexplore.ieee.org/abstract/document/7958591
+25,Cloak of Visibility: Detecting When Machines Browse a Different Web,Invernizzi,S&P,2016,1,0,https://ieeexplore.ieee.org/document/7546533
+26,"Prime+Probe 1, JavaScript 0: Overcoming Browser-based Side-Channel Defenses",Shusterman,Usenix,2021,1,0,https://www.usenix.org/system/files/sec21-shusterman.pdf
+27,Can I Take Your Subdomain? Exploring Same-Site Attacks in the Modern Web,Squarcina,Usenix,2021,1,0,https://www.usenix.org/system/files/sec21-squarcina.pdf
+28,U Can’t Debug This: Detecting JavaScript Anti-Debugging Techniques in the Wild,Musch,Usenix,2021,1,0,https://www.usenix.org/system/files/sec21-musch.pdf
+29,Scalable Detection of Promotional Website Defacements in Black Hat SEO Campaigns,Yang,Usenix,2021,1,0,https://www.usenix.org/system/files/sec21-yang-ronghai.pdf
+30,Cached and Confused: Web Cache Deception in the Wild,"Mirheidari,",Usenix,2020,1,0,https://www.usenix.org/system/files/sec20-mirheidari.pdf
+31,A Tale of Two Headers: A Formal Analysis of Inconsistent Click-Jacking Protection on the Web,Calzavara,Usenix,2020,1,0,https://www.usenix.org/system/files/sec20-calzavara.pdf
+32,Zero-delay Lightweight Defenses against Website Fingerprinting,Gong,Usenix,2020,1,0,https://www.usenix.org/system/files/sec20-gong.pdf
+33,All Your Clicks Belong to Me: Investigating Click Interception on the Web,Zhang,Usenix,2019,1,1,https://www.usenix.org/system/files/sec19-zhang-mingxue.pdf
+34,Scalable Scanning and Automatic Classification of TLS Padding Oracle Vulnerabilities,Merget,Usenix,2019,1,0,https://www.usenix.org/system/files/sec19-merget.pdf
+35,Inadvertently Making Cyber Criminals Rich: A Comprehensive Study of Cryptojacking Campaigns at Internet Scale,Bijmans,Usenix,2019,1,0,https://www.usenix.org/system/files/sec19-bijmans.pdf
+36,Leaky Images: Targeted Privacy Attacks in the Web,Staicu,Usenix,2019,0,1,https://www.usenix.org/system/files/sec19fall_staicu_prepub.pdf
+37,Who Left Open the Cookie Jar? A Comprehensive Evaluation of Third-Party Cookie Policies,Franken,Usenix,2018,1,1,https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-franken.pdf
+38,Quack: Scalable Remote Measurement of Application-Layer Censorship,VanderSloot,Usenix,2018,1,1,https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-vandersloot.pdf
+39,Freezing the Web: A Study of ReDoS Vulnerabilities in JavaScript-based Web Servers,Staicu,Usenix,2018,1,0,https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-staicu.pdf
+40,ROBOT,Böck,Usenix,2018,1,0,https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-bock.pdf
+41,We Still Don’t Have Secure Cross-Domain Requests: an Empirical Study of CORS,Chen,Usenix,2018,1,0,https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-chen.pdf
+42,End-to-End Measurements of Email Spoofing Attacks,Hu,Usenix,2018,1,1,https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-hu.pdf
+43,Global Measurement of DNS Manipulation,Pearce,Usenix,2017,1,1,https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-pearce.pdf
+44,CCSP: Controlled Relaxation of Content Security Policies by Runtime Policy Composition,Calzavara,Usenix,2017,1,0,https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-calzavara.pdf
+45,Game of Registrars: An Empirical Analysis of Post-Expiration Domain Name Takeovers,Lauinger,Usenix,2017,1,0,https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-lauinger.pdf
+46,How the Web Tangled Itself: Uncovering the History of Client-Side Web (In)Security,Stock,Usenix,2017,1,0,https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-stock.pdf
+47,Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks,Wang,Usenix,2017,1,1,https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-tao.pdf
+48,Tracing Information Flows Between Ad Exchanges Using Retargeted Ads,Bashir,Usenix,2016,1,0,https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_bashir.pdf
+49,DROWN: Breaking TLS using SSLv2,Aviram,Usenix,2016,1,0,https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_aviram.pdf
+50,Internet Jones and the Raiders of the Lost Trackers: An Archaeological Study of Web Tracking from 1996 to 2016,Lerner,Usenix,2016,1,1,https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_lerner.pdf
+51,Let's Downgrade Let's Encrypt,Dai,CCS,2021,1,0,https://dl.acm.org/doi/10.1145/3460120.3484815
+52,"Out of Sight, Out of Mind: Detecting Orphaned Web Pages at Internet-Scale",Pletinckx,CCS,2021,1,0,https://dl.acm.org/doi/10.1145/3460120.3485367
+53,VisualPhishNet: Zero-Day Phishing Website Detection by Visual Similarity,Abdelnabi,CCS,2020,1,0,https://dl.acm.org/doi/pdf/10.1145/3372297.3417233
+54,Talking with Familiar Strangers: An Empirical Study on HTTPS Context Confusion Attacks,Zhang,CCS,2020,1,0,https://luchaoyi.com/paper/ccs20-mitm.pdf
+55,PMForce: S1stematicall1 Anal1zing postMessage Handlers at Scale,Steffens,CCS,2020,1,0,https://cispa.de/en/research/publications/3164-pmforce-systematically-analyzing-postmessage-handlers-at-scale
+56,Zombie Awakening: Stealthy Hijacking of Active Domains through DNS Hosting Referral,Alowaisheq,CCS,2020,1,0,https://dl.acm.org/doi/pdf/10.1145/3372297.3417864
+57,The Cookie Hunter: Automated Black-box Auditing for Web Authentication and Authorization Flaws,Drakonakis,CCS,2020,1,0,https://dl.acm.org/doi/pdf/10.1145/3372297.3417869
+58,Fill in the B l a n k s: Empirical Analysis of the Privacy Threats of Browser Form Autofill,Lin,CCS,2020,1,0,https://dl.acm.org/doi/10.1145/3372297.3417271
+59,"Censored Planet: An Internet-wide, Longitudinal Censorship Observatory",Raman,CCS,2020,1,0,https://censoredplanet.org/assets/censoredplanet.pdf
+60,Mnemosyne: An Effective and Efficient Postmortem Watering Hole Attack Investigation System,Allen,CCS,2020,1,0,https://dl.acm.org/doi/pdf/10.1145/3372297.3423355
+61,Certificate Transparency in the Wild: Exploring the Reliability of Monitors,Lin,CCS,2019,1,0,https://www.inforsec.org/wp/wp-content/uploads/2020/04/CCS2019-Li.pdf
+62,HideNoSeek: Camouflaging Malicious JavaScript in Benign ASTs,Fass,CCS,2019,1,0,https://people.cispa.io/ben.stock/papers/fass2019hidenoseek.pdf
+63,You Are Who You Appear to Be A Longitudinal Study of Domain Impersonation in TLS Certificates,Roberts,CCS,2019,1,0,http://www.ccs.neu.edu/home/amislove/publications/Impersonation-CCS.pdf
+64,Predicting Impending Exposure to Malicious Content from User Behavior,Sharif,CCS,2018,1,0,https://dl.acm.org/doi/pdf/10.1145/3243734.3243779
+65,The Web’s Sixth Sense: A Study of Scripts Accessing Smartphone Sensors,Das,CCS,2018,1,0,https://dl.acm.org/doi/pdf/10.1145/3243734.3243860
+66,How You Get Shot in the Back: A Systematical Study about Cryptojacking in the Real World,Hong,CCS,2018,1,0,http://www.cs.ucr.edu/~zhiyunq/pub/ccs18_cryptojacking.pdf
+67,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense,Konoth,CCS,2018,1,0,https://dl.acm.org/doi/pdf/10.1145/3243734.3243858
+68,Pride and Prejudice in Progressive Web Apps: Abusing Native App-like Features in Web Applications,Lee,CCS,2018,1,0,http://cps.kaist.ac.kr/papers/18CCS-PPP.pdf
+69,Most Websites Don’t Need to Vibrate: A Cost–Benefit Approach to Improving Browser Security,Snyder,CCS,2017,1,0,https://acmccs.github.io/papers/p179-snyderA.pdf
+70,Don’t Let One Rotten Apple Spoil the Whole Barrel: Towards Automated Detection of Shadowed Domains,Liu,CCS,2017,1,0,https://acmccs.github.io/papers/p537-liuA.pdf
+71,Herding Vulnerable Cats: A Statistical Approach to Disentangle Joint Responsibility for Web Security in Shared Hosting,Tajalizadehkhoob,CCS,2017,1,0,https://acmccs.github.io/papers/p553-tajalizadehkhoobAemb.pdf
+72,"Hiding in Plain Sight:
+A Longitudinal Study of Combosquatting Abuse",Kintis,CCS,2017,1,0,https://acmccs.github.io/papers/p569-kintisA.pdf
+73,The Wolf of Name Street: Hijacking Domains Through Their Nameservers,Vissers,CCS,2017,1,0,https://acmccs.github.io/papers/p957-vissersA.pdf
+74,"Measurement and Analysis of
+Private Key Sharing in the HTTPS Ecosystem",Cangialosi,CCS,2016,1,0,https://dl.acm.org/doi/pdf/10.1145/2976749.2978301
+75,CSPAutoGen: Black-box Enforcement of Content Security Policy upon Real-world Websites,Pan,CCS,2016,1,0,https://dl.acm.org/doi/pdf/10.1145/2976749.2978384
+76,Content Security Problems?,Calzavara,CCS,2016,1,0,https://web.cs.wpi.edu/~ldecarli/teaching/cs513F20/papers/CRB16.pdf
+77,"CSP Is Dead, Long Live CSP! On the Insecurity of Whitelists and the Future of Content Security Policy",Weichselbaum,CCS,2016,1,0,https://dl.acm.org/doi/pdf/10.1145/2976749.2978363
+78,Online Tracking: A 1-million-site Measurement and Analysis,Englehardt,CCS,2016,0,1,https://dl.acm.org/doi/pdf/10.1145/2976749.2978313
+79,Unveiling Web Fingerprinting in the Wild Via Code Mining and Machine Learning,Rizzo,PETS,2021,0,1,https://www.sciendo.com/article/10.2478/popets-2021-0004
+80,Inferring Tracker-Advertiser Relationships in the Online Advertising Ecosystem using Header Bidding,Cook,PETS,2020,0,1,https://www.sciendo.com/article/10.2478/popets-2020-0005
+81,The Privacy Policy Landscape After the GDPR,Linden,PETS,2020,0,1,https://www.sciendo.com/article/10.2478/popets-2020-0004
+82,A Comparative Measurement Study of WebTracking on Mobile and Desktop Environments,Yang,PETS,2020,0,1,https://www.sciendo.com/article/10.2478/popets-2020-0016
+83,Missed by Filter Lists: Detecting Unknown Third-Party Trackers with Invisible Pixels,Fouad,PETS,2020,0,1,https://www.sciendo.com/article/10.2478/popets-2020-0038
+84,No boundaries: data exfiltration by third partiesembedded on web pages,Acar,PETS,2020,0,1,https://www.sciendo.com/article/10.2478/popets-2020-0070
+85,4 Years of EU Cookie Law: Results and Lessons Learned,Trevisan,PETS,2019,0,1,https://www.sciendo.com/article/10.2478/popets-2019-0023
+86,Finding a Needle in a Haystack: The Traffic Analysis Version,Qasem,PETS,2019,0,1,https://www.sciendo.com/article/10.2478/popets-2019-0030
+87,I never signed up for this! Privacy implications of email tracking,Englehardt,PETS,2018,0,1,https://www.sciendo.com/article/10.1515/popets-2018-0006
+88,Topics of Controversy: An Empirical Analysis of Web Censorship Lists,Weinberg,PETS,2017,0,1,https://www.sciendo.com/article/10.1515/popets-2017-0004
+89,Towards Seamless Tracking-Free Web: Improved Detection of Trackers via One-class Learning,Ikram,PETS,2017,0,1,https://www.sciendo.com/article/10.1515/popets-2017-0006
+90,Detecting Anti Ad-blockers in the Wild,Mughees,PETS,2017,0,1,https://www.sciendo.com/article/10.1515/popets-2017-0032
+91,Are You Sure You Want to Contact Us? Quantifying the Leakage of PII via Website Contact Forms,Starov,PETS,2016,0,1,https://www.sciendo.com/article/10.1515/popets-2015-0028
+92,Towards Realistic and Reproducible Web Crawl Measurements,Jueckstock,WWW,2021,1,1,https://dl.acm.org/doi/pdf/10.1145/3442381.3450050
+93,Cookie Swap Party: Abusing First-Party Cookies forWeb Tracking,Chen,WWW,2021,0,1,https://dl.acm.org/doi/pdf/10.1145/3442381.3449837
+94,User Tracking in the Post-cookie Era: How Websites Bypass GDPR Consent to Track Users,Papadogiannakis,WWW,2021,0,1,https://dl.acm.org/doi/pdf/10.1145/3442381.3450056
+95,"It’s Not Just the Site, It’s the Contents: Intra-domain Fingerprinting Social Media Websites Through CDN Bursts",Wang,WWW,2021,0,1,https://dl.acm.org/doi/pdf/10.1145/3442381.3450008
+96,Privacy Policies over Time: Curation and Analysis of a Million-Document Dataset,Amos,WWW,2021,0,1,https://dl.acm.org/doi/pdf/10.1145/3442381.3450048
+97,Beyond the Front Page:Measuring Third Party Dynamics in the Field,Urban,WWW,2020,0,1,https://dl.acm.org/doi/10.1145/3366423.3380203
+98,Stop tracking me Bro! Differential Tracking of User Demographics on Hyper-Partisan Websites,Agarwal,WWW,2020,0,1,https://dl.acm.org/doi/pdf/10.1145/3366423.3380221
+99,Finding a Choice in a Haystack: Automatic Extraction of Opt-Out Statements from Privacy Policy Text,Kumar,WWW,2020,0,1,https://dl.acm.org/doi/pdf/10.1145/3366423.3380262
+100,SpeedReader: Reader Mode Made Fast and Private,Ghasemisharif,WWW,2019,0,1,https://dl.acm.org/doi/pdf/10.1145/3308558.3313596
+101,An Investigation of Cyber Autonomy on Government Websites,Hsiao,WWW,2019,0,1,https://dl.acm.org/doi/pdf/10.1145/3308558.3313645
+102,ProxyTorrent: Untangling the Free HTTP(S) Proxy Ecosystem,Perino,WWW,2018,1,1,https://dl.acm.org/doi/pdf/10.1145/3178876.3186086
+103,An Automated Approach to Auditing Disclosure of Third-Party Data Collection in Website Privacy Policies,Libert,WWW,2018,1,1,https://dl.acm.org/doi/pdf/10.1145/3178876.3186087
+104,Large-Scale Analysis of Style Injection by Relative Path Overwrite,Arshad,WWW,2018,1,0,https://dl.acm.org/doi/pdf/10.1145/3178876.3186090
+105,Uncovering HTTP Header Inconsistencies and the Impact on Desktop/Mobile Websites,Mendoza,WWW,2018,1,0,https://dl.acm.org/doi/pdf/10.1145/3178876.3186091
+106,Panning for gold.com: Understanding the Dynamics of Domain Dropcatching,Miramirkhani,WWW,2018,1,0,https://dl.acm.org/doi/pdf/10.1145/3178876.3186092
+107,Who Controls the Internet? Analyzing Global Threats using Property Graph Traversals,Simeonovski,WWW,2017,1,0,https://dl.acm.org/doi/pdf/10.1145/3038912.3052587
+108,Tracking Phishing Attacks Over Time,Cui,WWW,2017,1,0,https://dl.acm.org/doi/pdf/10.1145/3038912.3052654
+109,Security Challenges in an Increasingly Tangled Web,Kumar,WWW,2017,1,0,https://dl.acm.org/doi/pdf/10.1145/3038912.3052686
+110,On the Content Security Policy Violations due to the Same-Origin Policy,Some,WWW,2017,1,0,https://dl.acm.org/doi/pdf/10.1145/3038912.3052634
+111,An Empirical Study of Web Cookies,Cahn,WWW,2016,0,1,https://dl.acm.org/doi/pdf/10.1145/2872427.2882991
+112,Who You Gonna Call? An Empirical Evaluation of Website security.txt Deployment,Poteat,IMC,2021,1,0,https://dl.acm.org/doi/pdf/10.1145/3487552.3487841
+113,Measuring the Emergence of Consent Management on the Web,Hils,IMC,2020,0,1,https://dl.acm.org/doi/pdf/10.1145/3419394.3423647
+114,Tales from the Porn: A Comprehensive Privacy Analysis of the Web Porn Ecosystem,Vallina,IMC,2019,0,1,https://dl.acm.org/doi/pdf/10.1145/3355369.3355583
+115,The Ad Wars: Retrospective Measurement and Analysis of Anti-Adblock Filter Lists,Iqbal,IMC,2017,0,1,https://dl.acm.org/doi/pdf/10.1145/3131365.3131387
+116,Tripwire: Inferring Internet Site Compromise,DeBlasio,IMC,2017,1,0,https://dl.acm.org/doi/pdf/10.1145/3131365.3131391
+117,User Profiling in the Time of HTTPS,Gonzalez,IMC,2016,0,1,https://dl.acm.org/doi/pdf/10.1145/2987443.2987451

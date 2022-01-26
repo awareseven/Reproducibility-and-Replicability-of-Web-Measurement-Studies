@@ -1,0 +1,30 @@
+pip:
+selenium
+selenium-wire
+psycopg2
+tldextract
+google-cloud-bigquery
+undetected-chromedriver
+pycryptodome
+plyvel
+chrome_cookiejar
+func-timeout
+pyre2
+adblockparser
+google-cloud-bigquery-storage
+pandas
+pyarrow
+sklearn
+seaborn
+
+conda:
+conda install -c conda-forge google-cloud-sdk 
+conda install -c conda-forge google-cloud-automl 
+conda install -c conda-forge/label/cf201901 google-cloud-core 
+conda install -c conda-forge/label/cf202003 google-cloud-core 
+
+conda install -c conda-forge google-cloud-bigquery 
+conda install -c conda-forge/label/gcc7 google-cloud-bigquery
+conda install -c conda-forge/label/cf201901 google-cloud-bigquery
+conda install -c conda-forge/label/cf202003 google-cloud-bigquery 
+
